@@ -1,0 +1,57 @@
+/* .car {
+    width: 100%;
+    height: 100%;
+    background-color: aliceblue;
+
+} */
+
+/* .car .car1{
+    max-width: 100%;
+    height: auto;
+    position: fixed;
+    
+} */
+
+body {
+    background-image: url(/car4k.jpg);
+    background-size: cover;
+    height: 100vh;
+    /* width: 100vh; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: sticky;
+    
+
+}
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+/* .nav-item .wh{
+    color: white; 
+}  */
+
+/* .the_2nd{
+    margin-top:30x;
+} */
+
+.cl {
+    color: black !important;
+}
+
+#bd {
+    border-style: dotted;
+}
+#text{
+    text-align: center;
+    margin-top: 60px;
+    
+}
+.sp{
+    color: white !important;
+}
+#text1{
+    
+    text-align: center;
+}
