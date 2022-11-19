@@ -20,21 +20,10 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-position: sticky;
-    
+
 
 }
-/* *{
-    margin: 0;
-    padding: 0;
-} */
 
-/* .nav-item .wh{
-    color: white; 
-}  */
-
-/* .the_2nd{
-    margin-top:30x;
-} */
 
 .cl {
     color: black !important;
@@ -43,15 +32,69 @@ body {
 #bd {
     border-style: dotted;
 }
-#text{
+
+#text {
     text-align: center;
-    margin-top: 60px;
-    
+    margin-top: 100px;
+
 }
-.sp{
+
+.sp {
     color: white !important;
 }
-#text1{
-    
+
+#text1 {
+
     text-align: center;
+}
+
+.circle {
+    text-align: center;
+}
+
+.margin {
+    margin-top: 40px !important;
+}
+
+/* #btncenter{
+text-align: center !important;
+} */
+.box {
+    height: fit-content;
+    width: max-content;
+    margin: auto;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+
+    margin-top: 6vh !important;
+    padding: 20px;
+
+    color: white;
+    background-color: aqua;
+
+    font-weight: bolder;
+
+
+}
+
+#navbodyless {
+   margin-top: 37vh;
+   background-color: aqua;
+
+
+}
+.container{
+    width: 100%;
+}
+
+#bt{
+    margin-left: 5px !important;
+}
+.blank{
+    text-align: center;
+    justify-content: center;
+    margin-top: 37vh;
+    padding: 10px;
+   
 }
